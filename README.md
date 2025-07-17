@@ -16,36 +16,7 @@
 - 📱 **Responsive Design** - Works on desktop, tablet, and mobile
 - ⚡ **Sample-Accurate Timing** - Professional-grade audio precision
 
-## 🚀 Quick Start
 
-### Prerequisites
-- Node.js 16+ installed
-- Modern web browser with Web Audio API support
-
-### Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/custom-audio-app.git
-cd custom-audio-app
-
-# Install dependencies
-npm install
-
-# Start development server
-npm start
-```
-
-Open [http://localhost:3000](http://localhost:3000) in your browser.
-
-### Add Audio Samples
-Place your MP3 files in the `public/samples/` directory and they'll be available for loading in the app.
-
-## 🎯 Demo
-
-![Audio App Demo](./demo/audio-app-demo.gif)
-
-**Try it live:** [https://your-app-name.vercel.app](https://your-app-name.vercel.app)
 
 ## 🏗️ Built With
 
@@ -212,12 +183,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **[React](https://reactjs.org/)** - UI framework
 - Audio samples from [Freesound.org](https://freesound.org/)
 
-## 📞 Support
-
-- 📧 **Email**: your-email@example.com
-- 💬 **Discord**: [Join our community](https://discord.gg/your-server)
-- 🐛 **Issues**: [GitHub Issues](https://github.com/yourusername/custom-audio-app/issues)
-- 📖 **Documentation**: [Wiki](https://github.com/yourusername/custom-audio-app/wiki)
 
 ---
 

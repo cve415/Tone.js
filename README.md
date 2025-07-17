@@ -1,4 +1,4 @@
-# Audio App Starter - Copy and paste these commands
+
 
 # Create project directory
 mkdir custom-audio-app
